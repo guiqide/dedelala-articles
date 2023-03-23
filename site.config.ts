@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'dedelala',
-  domain: 'dedelala.com',
-  author: 'Gavin B',
+  name: 'Gabriel',
+  domain: 'guiqide.com',
+  author: 'Gabriel B',
 
   // open graph metadata (optional)
   description: '分享一些学习经验',
