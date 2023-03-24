@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Gabriel',
-  domain: 'guiqide.com',
+  domain: 'dedeaoe.com',
   author: 'Gabriel B',
 
   // open graph metadata (optional)
